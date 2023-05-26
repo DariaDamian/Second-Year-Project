@@ -1,7 +1,7 @@
 # Second-Year-Project
 Welcome to our NLP project!:)<3
 
-To run you need to download the [Google News Word2vec model](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g), name it "GoogleNews-50k.bin", and place it in /notebooks/nlp-project/models/.
+To valuate our experiments on Test data, you need to download the [Google News Word2vec model](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g), name it "GoogleNews-50k.bin", and place it in /notebooks/nlp-project/models/ and then run the "Analysis" notebook.
 
 Group 10: 
 Christian Weidemann weid@itu.dk,
